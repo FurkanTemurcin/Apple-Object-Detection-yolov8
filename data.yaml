@@ -1,0 +1,13 @@
+names:
+- apple
+nc: 1
+path: "C:\\Users\\FURKAN\\OneDrive\\Masa\xFCst\xFC\\ElmaProjesi"
+roboflow:
+  license: CC BY 4.0
+  project: apple-detection-d2qib
+  url: https://universe.roboflow.com/goruntuisleme-5ayfo/apple-detection-d2qib/dataset/2
+  version: 2
+  workspace: goruntuisleme-5ayfo
+test: "C:\\Users\\FURKAN\\OneDrive\\Masa\xFCst\xFC\\ElmaProjesi\\test\\images"
+train: "C:\\Users\\FURKAN\\OneDrive\\Masa\xFCst\xFC\\ElmaProjesi\\train\\images"
+val: "C:\\Users\\FURKAN\\OneDrive\\Masa\xFCst\xFC\\ElmaProjesi\\valid\\images"
